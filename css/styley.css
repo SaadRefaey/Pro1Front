@@ -206,9 +206,10 @@ body {
   text-align: center;
   padding: 20px 0;
   position: relative;
+  margin-top: 80px;
 }
 .d2 {
-  margin: 0 5%;
+  margin: 80px 5%;
 }
 .container-SEC-2 i {
   color: white;
