@@ -125,7 +125,6 @@ body {
   border: none;
   margin: 10px 5px;
 }
-
 .but1-SEC-1:hover {
   opacity: 0.5;
 }
@@ -489,10 +488,5 @@ body {
   opacity: 0.3;
   transition: 0.7s;
   z-index: -1;
+  border-radius: 10px;
 }
-
-
-
-
-
-
